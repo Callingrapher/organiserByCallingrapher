@@ -1,13 +1,30 @@
 * {
-
+    width: 100%;
+    text-align: center;
 }
 
 header {
+    background-color: chartreuse;
+}
+
+tbody {
+    border: solid black 5px;
+    background-color: rgb(190, 189, 187);
 
 }
 
+.year {
 
+}
+
+.month {
+
+}
+
+.weekDay {
+
+}
 
 footer {
-
+    background-color: rgb(204, 123, 2);
 }
